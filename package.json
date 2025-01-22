@@ -1,7 +1,7 @@
 {
   "name": "react-router-app",
   "version": "0.1.0",
-  "homepage": "https://ravinderpuri99.github.com/react_deploy_gh",
+  "homepage": "https://ravinderpuri99.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "axios": "^1.7.9",
